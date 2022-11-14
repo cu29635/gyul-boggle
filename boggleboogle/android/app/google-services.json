@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "19611732310",
+    "firebase_url": "https://bogleboogle-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bogleboogle",
+    "storage_bucket": "bogleboogle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19611732310:android:486267486407e8d68b2ef7",
+        "android_client_info": {
+          "package_name": "com.example.boggleboogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19611732310-6bpk2rjhtj90ceglb5o5b3r0hl442gep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBNt8Vb_nGJJMxeozLcPELdqcAm9frNS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19611732310-6bpk2rjhtj90ceglb5o5b3r0hl442gep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19611732310-msb7kq48a387fbfkvrfi6aa368on0ups.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.boggleboogle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
