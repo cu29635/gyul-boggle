@@ -42,10 +42,6 @@ class _FriendMainScreenState extends State<FriendMainScreen> {
             icon: Icon(FontAwesomeIcons.comment),
             label: "",
           ),
-          BottomNavigationBarItem(
-            icon: Icon(FontAwesomeIcons.ellipsisH),
-            label: "",
-          ),
         ],
       ),
     );
