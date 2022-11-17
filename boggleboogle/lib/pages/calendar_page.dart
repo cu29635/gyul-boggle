@@ -67,7 +67,6 @@ class _CalendarPageState extends State<CalendarPage> {
       body: Column(
         children: [
           CalendarCom(mail: widget.mail),
-          //),<- 이거 문제임
         ],
       ),
     );

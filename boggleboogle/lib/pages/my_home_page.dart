@@ -51,6 +51,7 @@ class _TmpPageState extends State<MyHomePage> {
   }
 
   //
+
   _permission() async {
     Map<Permission, PermissionStatus> statuses = await [
       Permission.storage,

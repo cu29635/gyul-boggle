@@ -1,4 +1,5 @@
 //보글이 : 0, 부글이 : 0, 뽀글이 : 0;
+//테스트 메인
 import 'dart:async';
 
 import 'package:auto_size_text/auto_size_text.dart';
